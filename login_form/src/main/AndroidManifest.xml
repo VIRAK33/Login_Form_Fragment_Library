@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.login_form">
+    <application>
+        <activity android:name="com.login_form.MainActivity_Login"/>
+    </application>
+
+</manifest>
